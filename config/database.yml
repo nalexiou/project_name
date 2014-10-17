@@ -16,6 +16,8 @@ development:
   database: my_database_development
   pool: 5
   timeout: 5000
+  username: myrole
+  password: 17anni
   #database: db/development.postgresql
   
 
